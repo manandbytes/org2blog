@@ -20,7 +20,7 @@
 
   Download org2blog from github
 
-  : git clone http://github.com/punchagan/org2blog.git
+  : git clone http://github.com/manandbytes/org2blog.git
   
   Add the org2blog directory to your load path and then add
 
